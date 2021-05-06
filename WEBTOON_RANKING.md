@@ -5,4 +5,3 @@
 # 논리적 설계 - 릴레이션 스키마(관계데이터모델) 5/5-5/8
 ![캡처](https://user-images.githubusercontent.com/79950254/117247900-08b11c00-ae7a-11eb-979b-a675727f9ef3.PNG)
 
-![4](https://user-images.githubusercontent.com/79950254/117248347-c5a37880-ae7a-11eb-9948-6593bfbead36.PNG)
