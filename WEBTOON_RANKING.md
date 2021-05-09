@@ -8,5 +8,6 @@
 ![다대다](https://user-images.githubusercontent.com/79950254/117566351-348a0700-b0f1-11eb-84a3-22b5035bb3ff.png)
 ***
 ### 규칙 3 - 일대다 1:n 관계는 외래키로 표현한다.
+![일대다](https://user-images.githubusercontent.com/79950254/117566844-f8a47100-b0f3-11eb-8d7e-d5cb11e69f39.png)
 
 
