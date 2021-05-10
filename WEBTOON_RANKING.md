@@ -1,3 +1,4 @@
+
 # 개념적 설계 - E_R 다이어그램 5/2-5/4
 ![er](https://user-images.githubusercontent.com/79950254/117670518-eead6b80-b1e2-11eb-9fc0-17b4b6be00fb.PNG)
 # 논리적 설계 - 릴레이션 스키마(관계데이터모델) 5/5-5/8
