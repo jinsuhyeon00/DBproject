@@ -1,5 +1,5 @@
-# 개념적 설계![er](https://user-images.githubusercontent.com/79950254/117670117-8d859800-b1e2-11eb-9bee-1fd803aad31c.PNG)
- - E_R 다이어그램 5/2-5/4
+# 개념적 설계 - E_R 다이어그램 5/2-5/4
+![er](https://user-images.githubusercontent.com/79950254/117670518-eead6b80-b1e2-11eb-9fc0-17b4b6be00fb.PNG)
 # 논리적 설계 - 릴레이션 스키마(관계데이터모델) 5/5-5/8
 ### 규칙 1 - 모든 객체는 릴레이션으로 변환한다.
 ![1](https://user-images.githubusercontent.com/79950254/117670124-90808880-b1e2-11eb-9b26-d513cdb62565.PNG)
