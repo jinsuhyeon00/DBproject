@@ -13,7 +13,7 @@
 ***
 # 정규화 - 함수 종속 다이어그램 5/9-5/16
 ![함수 종속 1](https://user-images.githubusercontent.com/79950254/118390534-92c36680-b66a-11eb-8517-1989c865e23f.png)
-![함수 종속 2](https://user-images.githubusercontent.com/79950254/118390536-95be5700-b66a-11eb-9a98-9a8272222c4b.png)
+![함수종속2](https://user-images.githubusercontent.com/79950254/118640306-c8f01a00-b813-11eb-85d7-4688a9503021.PNG)
 ***
 # Join Metrics
 ![Join](https://user-images.githubusercontent.com/79950254/118390570-c43c3200-b66a-11eb-9e15-6e5695b13ce3.png)
